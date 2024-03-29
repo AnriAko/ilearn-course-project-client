@@ -1,4 +1,4 @@
-const API_BASE_URL = 'ilearn-course-project-server-production.up.railway.app';
+const API_BASE_URL = 'ilearn-course-project-server-production.up.railway.app/api';
 
 const ROUTES = {
 	auth: {
